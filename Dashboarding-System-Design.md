@@ -38,7 +38,8 @@ Used to transform data from SOR format / system to Analytics App's DB structure 
     - Transformation
     - Predicates
     - Creating dimensions (SCD 1, SCD 2) - 
-- Handling of Period dimension  
+- Handling of Period dimension
+- Meta model for transformations including data lineage and impact analysis
 
 ### Analytics Schema
 

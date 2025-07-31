@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
   <diagram name="Page-1" id="o7vMPBndVuw8qitjOjHM">
-    <mxGraphModel dx="1018" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
         <mxCell id="_FaIDGt9qHq3RFplHSfq-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Kfd8tbkBQcZjYO2IM3YY-5" source="_FaIDGt9qHq3RFplHSfq-2" target="_FaIDGt9qHq3RFplHSfq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_FaIDGt9qHq3RFplHSfq-2" value="Analytics Schema - RDBMS" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Kfd8tbkBQcZjYO2IM3YY-5">
+        <mxCell id="_FaIDGt9qHq3RFplHSfq-2" value="Analytics Schema - Snowflake Schema" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Kfd8tbkBQcZjYO2IM3YY-5">
           <mxGeometry x="20" y="35" width="460" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Kfd8tbkBQcZjYO2IM3YY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="_FaIDGt9qHq3RFplHSfq-2" source="Kfd8tbkBQcZjYO2IM3YY-6" target="Kfd8tbkBQcZjYO2IM3YY-12" edge="1">
@@ -156,6 +156,9 @@
         </mxCell>
         <mxCell id="Kfd8tbkBQcZjYO2IM3YY-31" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Kfd8tbkBQcZjYO2IM3YY-29" vertex="1">
           <mxGeometry y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_FaIDGt9qHq3RFplHSfq-4" value="Visualisation App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Kfd8tbkBQcZjYO2IM3YY-5">
+          <mxGeometry x="499" y="155" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kfd8tbkBQcZjYO2IM3YY-37" value="Analytics App 2" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="450" width="200" height="200" as="geometry" />

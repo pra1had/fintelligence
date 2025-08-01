@@ -1,3 +1,5 @@
+SET datestyle = 'DMY';
+
 INSERT INTO transactions (txn_id, acct_id, service_id, channel_id, txn_date, txn_amount, fee_amount, txn_type, status, currency) VALUES
 ('T001', 'A001', 'S01', 'CH01', '05/01/24', 5000000, 300, 'Domestic Wire', 'Completed', 'USD'),
 ('T002', 'A001', 'S02', 'CH03', '08/01/24', 25000000, 2000, 'International Wire', 'Completed', 'USD'),

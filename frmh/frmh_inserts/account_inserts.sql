@@ -1,3 +1,5 @@
+SET datestyle = 'DMY';
+
 INSERT INTO account (acct_id, cust_id, prod_id, opening_date, current_balance, status, currency) VALUES
 ('A001', 'C001', 'P02', '10/01/20', 15000000, 'ACTIVE', 'USD'),
 ('A002', 'C001', 'P04', '15/03/20', 5000000, 'ACTIVE', 'USD'),

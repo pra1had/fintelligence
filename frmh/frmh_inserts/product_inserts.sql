@@ -1,3 +1,5 @@
+SET datestyle = 'DMY';
+
 INSERT INTO product (product_id, product_name, prod_category, is_active, launch_date) VALUES
 ('P01', 'Corporate Current Basic', 'Current Account', TRUE, '15/01/20'),
 ('P02', 'Corporate Current Premium', 'Current Account', TRUE, '01/06/19'),

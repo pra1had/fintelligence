@@ -1,3 +1,5 @@
+SET datestyle = 'DMY';
+
 INSERT INTO customer (cust_id, company_name, seg_id, account_opening_date) VALUES
 ('C001', 'TechCorp Solutions', 'CS02', '10/01/20'),
 ('C002', 'Global Manufacturing', 'CS01', '15/06/18'),

@@ -1,3 +1,5 @@
+SET datestyle = 'DMY';
+
 INSERT INTO ledger (Ledger_ID, txn_id, charge_code, calculated_fee, discount, final_fee, calc_method, created_date, currency) VALUES
 ('L001', 'T001', 'CC002', 300, 0, 300, 'STANDARD', '05/01/24', 'USD'),
 ('L002', 'T002', 'CC004', 2000, 0, 2000, 'STANDARD', '08/01/24', 'USD'),

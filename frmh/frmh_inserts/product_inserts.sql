@@ -1,0 +1,6 @@
+INSERT INTO product (product_id, product_name, prod_category, is_active, launch_date) VALUES
+('P01', 'Corporate Current Basic', 'Current Account', TRUE, '15/01/20'),
+('P02', 'Corporate Current Premium', 'Current Account', TRUE, '01/06/19'),
+('P03', 'Corporate Current Elite', 'Current Account', TRUE, '20/03/18'),
+('P04', 'Trade Finance Account', 'Trade Finance', TRUE, '10/08/20'),
+('P05', 'Cash Management Account', 'Cash Management', TRUE, '05/01/21');

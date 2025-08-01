@@ -1,0 +1,13 @@
+service_id,service_name,serv_category,is_chargeable,avg_cost_per_txn
+S01,Domestic Wire,Payment,TRUE,15
+S02,International Wire,Payment,TRUE,150
+S03,RTGS Transfer,Payment,TRUE,8
+S04,NEFT Transfer,Payment,TRUE,3
+S05,Account Maintenance,Maintenance,TRUE,2000
+S06,Cash Deposit,Cash,TRUE,25
+S07,Cash Withdrawal,Cash,TRUE,35
+S08,Statement Generation,Document,TRUE,12
+S09,Cheque Book,Document,TRUE,80
+S10,Letter of Credit,Trade,TRUE,5000
+S11,Bank Guarantee,Trade,TRUE,3000
+S12,Foreign Exchange,FX,TRUE,200

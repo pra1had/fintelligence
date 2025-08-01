@@ -1,0 +1,26 @@
+cust_id,company_name,seg_id,account_opening_date
+C001,TechCorp Solutions,CS02,10/01/20
+C002,Global Manufacturing,CS01,15/06/18
+C003,Logistics Leaders,CS02,20/03/19
+C004,Finance Plus Corp,CS02,08/12/17
+C005,Innovation Systems,CS01,22/08/16
+C006,Export Excellence,CS03,14/02/21
+C007,Pharma Research,CS02,30/09/19
+C008,Green Energy,CS03,18/04/22
+C009,Auto Parts Ltd,CS02,25/11/18
+C010,Construction Giants,CS02,12/07/17
+C011,Food Processing,CS03,08/10/20
+C012,Chemicals Ltd,CS02,20/12/16
+C013,Digital Marketing,CS04,30/11/21
+C014,Steel Works,CS01,14/05/15
+C015,Retail Chain,CS02,22/01/19
+C016,Global Tech Inc,CS01,20/01/23
+C017,Pinnacle Corp,CS01,15/02/23
+C018,Quantum Industries,CS02,10/03/23
+C019,Stellar Solutions,CS02,05/04/23
+C020,Apex Enterprises,CS03,12/05/23
+C021,Orion Group,CS03,20/06/23
+C022,Nova Labs,CS04,18/07/23
+C023,Vertex Dynamics,CS04,22/08/23
+C024,Zenith Co,CS01,14/09/23
+C025,Blue Ribbon Foods,CS02,30/10/23
